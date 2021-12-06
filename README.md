@@ -1,2 +1,3 @@
 ﻿# Eat-Game
-Control cube with arrows. Score in console.
+Control cube with arrows. 
+Score in console.
